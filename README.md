@@ -1,4 +1,7 @@
 # Weekly Shōnen Jump Ranking Analysis
+![IMAGE ALT TEXT HERE](https://dwgkfo5b3odmw.cloudfront.net/manga/thumbs/thumb-30705-p000_Cov_071618-3.jpg)
+
+![](http://i.imgur.com/9oUdCJg.png)
 
 Weekly Shōnen Jump is the best-selling manga magazine in Japan. Many iconic manga series such as *Dragon Ball Z*, *One Piece*, and "Slam Dunk", were originally published in the magazine. Each volume of WSJ contains 10-20 serialized manga, each with 15-20 pages of content, separated by advertisements and other materials. The magazine contains largely narratives targeted towards young boys (the definition of *shōnen* being "boy" or "youth"), and typically feature action, drama, and comedy centered around male protagonists. However, the readership demographics are diverse in both age and gender and have wide international appeal. While WSJ volume sales peaked in the mid 1990s, the cultural significance of manga and anime franchises that first appear in WSJ are increasing, especially as licensed English translations published by Viz Media and english anime distributed by Netflix and Crunchyroll are becoming more available. 
 
@@ -10,7 +13,7 @@ We are interested in analyzing the content of Weekly Shōnen Jump to understand 
 
 ---
 
-This is the methodology we plan to employ. We will align the rankings with manga release 8 (6?) weeks ago. 
+This is the methodology we plan to employ. We will align the rankings with manga release 8 weeks ago. 
 
 ### RANKINGS
 
@@ -18,6 +21,8 @@ This is the methodology we plan to employ. We will align the rankings with manga
 - [ ] Recreate rankings over time by series using ToC, including color + anniversary placements
 - [ ] *OPTIONAL: Scrape sales data by vol. for each series*
 - [ ] *OPTIONAL: Scrape reddit comments for each chapter from /r/manga*
+- [ ] Recreate the following graphs
+![](https://lh5.googleusercontent.com/-KTOhUBDM9CI/UoySCn7qWRI/AAAAAAAAevE/z0iT_Ue4VgY/w969-h724-no/TOC-2013.png)
 
 ### CONTENT
 
