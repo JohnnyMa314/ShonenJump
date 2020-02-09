@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Fantano/.idea/Fantano.iml" filepath="$PROJECT_DIR$/../Fantano/.idea/Fantano.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/GoogleImageScrape/.idea/GoogleImageScrape.iml" filepath="$USER_HOME$/Documents/GitHub/GoogleImageScrape/.idea/GoogleImageScrape.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ShonenJump.iml" filepath="$PROJECT_DIR$/.idea/ShonenJump.iml" />
     </modules>
   </component>
