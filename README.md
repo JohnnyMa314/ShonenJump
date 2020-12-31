@@ -1,5 +1,5 @@
 # Weekly Shōnen Jump Ranking Analysis
-![IMAGE ALT TEXT HERE](https://dwgkfo5b3odmw.cloudfront.net/manga/thumbs/thumb-30705-p000_Cov_071618-3.jpg)
+![](https://dwgkfo5b3odmw.cloudfront.net/manga/thumbs/thumb-30705-p000_Cov_071618-3.jpg)
 
 ![](http://i.imgur.com/9oUdCJg.png)
 
